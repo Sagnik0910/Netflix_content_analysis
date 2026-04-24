@@ -98,6 +98,3 @@ Tracks how content additions have evolved over time, indicating growth patterns.
 
 ---
 
-## Author
-
-Aishi Dutta
